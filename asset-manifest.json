@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YouTube-raect-class-search/static/css/main.1cc82501.css",
+    "main.js": "/YouTube-raect-class-search/static/js/main.6d517eeb.js",
+    "index.html": "/YouTube-raect-class-search/index.html",
+    "main.1cc82501.css.map": "/YouTube-raect-class-search/static/css/main.1cc82501.css.map",
+    "main.6d517eeb.js.map": "/YouTube-raect-class-search/static/js/main.6d517eeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc82501.css",
+    "static/js/main.6d517eeb.js"
+  ]
+}
