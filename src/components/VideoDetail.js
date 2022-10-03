@@ -2,7 +2,11 @@ import React from "react";
 
 const VideoDetail = ({ video }) => {
   if (!video) {
-    return <div>選取影片可觀看</div>;
+    return (
+      <div class="ui segment">
+        <div class="ui active inline loader"></div>
+      </div>
+    );
   }
 
   const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
